@@ -4,7 +4,7 @@ Descripcion de mi proyecto
 ## indice
 Este proyecto fue creado durante el bootcamp Technolochicas PRO, es una página web responsiva adaptable a diversos dispositivos
 El proposito de la cracion de este sitio web es mostar el portafolio de proyectos de la desarrolladora y su experiencia alrededor del area.
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="" target="_blank">**Visit Now** 🚀</a>
 
 1. Intro
 2. Demo
