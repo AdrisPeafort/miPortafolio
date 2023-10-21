@@ -1,4 +1,4 @@
-# Portafolio personal: Tecnolochicas Pro
+# Portafolio personal: Technolochicas Pro
 
 Descripcion de mi proyecto
 ## indice
